@@ -1,0 +1,31 @@
+id,product_english,product_italian,macro_category
+0,toys,giocattoli,generale
+1,garden_tools,attrezzi_da_giardino,giardinaggio
+2,furniture_decor,mobili_decorazione,mobili
+3,housewares,articoli_per_la_casa,generale
+4,food,alimenti,generale
+5,fashion_bags_accessories,moda_borse_accessori,moda
+6,perfumery,profumeria,salute e bellezza
+7,pet_shop,negozio_animali,animali
+8,telephony,telefonia,elettronica
+9,health_beauty,salute_bellezza,salute e bellezza
+10,office_furniture,mobili_ufficio,mobili
+11,computers_accessories,informatica_accessori,elettronica
+12,sports_leisure,sport_tempo_libero,generale
+13,baby,neonati,articoli per l'infanzia
+14,electronics,elettronica,elettronica
+15,cool_stuff,articoli_cool,idee regalo
+16,books_general_interest,libri_interesse_generale,libri
+17,watches_gifts,orologi_regali,idee regalo
+18,industry_commerce_and_business,industria_commercio_affari,prodotti industriali
+19,fixed_telephony,telefonia_fissa,elettronica
+20,bed_bath_table,letto_bagno_tavola,articoli per la casa
+21,air_conditioning,climatizzazione,articoli per la casa
+22,auto,auto,generale
+23,fashion_female_clothing,moda_abbigliamento_donna,moda
+24,fashion_male_clothing,moda_abbigliamento_uomo,moda
+25,audio,audio,elettronica
+26,fashion_shoes,moda_calzature,moda
+27,diapers_and_hygiene,pannolini_igiene,salute e bellezza
+28,books_technical,libri_tecnici,libri
+29,miscellaneous,generale,generale
